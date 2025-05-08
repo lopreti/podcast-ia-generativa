@@ -1,6 +1,6 @@
 # 🎙️ Podcast com IA Generativa
 
-Este é um projeto criado para o bootcamp da Geo, onde desenvolvi um podcast usando ferramentas de inteligência artificial generativa.
+Este é um projeto criado para o bootcamp da DIO, onde desenvolvi um podcast usando ferramentas de inteligência artificial generativa.
 
 ## 📂 Estrutura do Projeto
 
